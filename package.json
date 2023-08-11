@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/delantetr/automatic-computing-machine#readme",
   "dependencies": {
-    "inquirer": "^9.2.8",
-    "jest": "^29.6.1"
+    "inquirer": "^9.2.10",
+    "jest": "^29.6.2"
   }
 }
